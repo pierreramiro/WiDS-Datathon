@@ -1,0 +1,407 @@
+Acceleration,Cyl4,Cylinders,Displacement,Horsepower,Make,Model,Year,MPG,RegionOfOrigin,CountryOfOrigin,Weight
+12,Other,8,307,130,chevrolet    ,chevrolet chevelle malibu           ,70,18,USA    ,USA    ,3504
+11.5,Other,8,350,165,buick        ,buick skylark 320                   ,70,15,USA    ,USA    ,3693
+11,Other,8,318,150,plymouth     ,plymouth satellite                  ,70,18,USA    ,USA    ,3436
+12,Other,8,304,150,amc          ,amc rebel sst                       ,70,16,USA    ,USA    ,3433
+10.5,Other,8,302,140,ford         ,ford torino                         ,70,17,USA    ,USA    ,3449
+10,Other,8,429,198,ford         ,ford galaxie 500                    ,70,15,USA    ,USA    ,4341
+9,Other,8,454,220,chevrolet    ,chevrolet impala                    ,70,14,USA    ,USA    ,4354
+8.5,Other,8,440,215,plymouth     ,plymouth fury iii                   ,70,14,USA    ,USA    ,4312
+10,Other,8,455,225,pontiac      ,pontiac catalina                    ,70,14,USA    ,USA    ,4425
+8.5,Other,8,390,190,amc          ,amc ambassador dpl                  ,70,15,USA    ,USA    ,3850
+17.5,Four ,4,133,115,citroen      ,citroen ds-21 pallas                ,70,NaN,Europe ,France ,3090
+11.5,Other,8,350,165,chevrolet    ,chevrolet chevelle concours (sw)    ,70,NaN,USA    ,USA    ,4142
+11,Other,8,351,153,ford         ,ford torino (sw)                    ,70,NaN,USA    ,USA    ,4034
+10.5,Other,8,383,175,plymouth     ,plymouth satellite (sw)             ,70,NaN,USA    ,USA    ,4166
+11,Other,8,360,175,amc          ,amc rebel sst (sw)                  ,70,NaN,USA    ,USA    ,3850
+10,Other,8,383,170,dodge        ,dodge challenger se                 ,70,15,USA    ,USA    ,3563
+8,Other,8,340,160,plymouth     ,plymouth 'cuda 340                  ,70,14,USA    ,USA    ,3609
+8,Other,8,302,140,ford         ,ford mustang boss 302               ,70,NaN,USA    ,USA    ,3353
+9.5,Other,8,400,150,chevrolet    ,chevrolet monte carlo               ,70,15,USA    ,USA    ,3761
+10,Other,8,455,225,buick        ,buick estate wagon (sw)             ,70,14,USA    ,USA    ,3086
+15,Four ,4,113,95,toyota       ,toyota corona mark ii               ,70,24,Japan  ,Japan  ,2372
+15.5,Other,6,198,95,plymouth     ,plymouth duster                     ,70,22,USA    ,USA    ,2833
+15.5,Other,6,199,97,amc          ,amc hornet                          ,70,18,USA    ,USA    ,2774
+16,Other,6,200,85,ford         ,ford maverick                       ,70,21,USA    ,USA    ,2587
+14.5,Four ,4,97,88,datsun       ,datsun pl510                        ,70,27,Japan  ,Japan  ,2130
+20.5,Four ,4,97,46,volkswagen   ,volkswagen 1131 deluxe sedan        ,70,26,Europe ,Germany,1835
+17.5,Four ,4,110,87,peugeot      ,peugeot 504                         ,70,25,Europe ,France ,2672
+14.5,Four ,4,107,90,audi         ,audi 100 ls                         ,70,24,Europe ,Germany,2430
+17.5,Four ,4,104,95,saab         ,saab 99e                            ,70,25,Europe ,Sweden ,2375
+12.5,Four ,4,121,113,bmw          ,bmw 2002                            ,70,26,Europe ,Germany,2234
+15,Other,6,199,90,amc          ,amc gremlin                         ,70,21,USA    ,USA    ,2648
+14,Other,8,360,215,ford         ,ford f250                           ,70,10,USA    ,USA    ,4615
+15,Other,8,307,200,chevrolet    ,chevrolet c20                       ,70,10,USA    ,USA    ,4376
+13.5,Other,8,318,210,dodge        ,dodge d200                          ,70,11,USA    ,USA    ,4382
+18.5,Other,8,304,193,ih           ,ih 1200d                            ,70,9,USA    ,USA    ,4732
+14.5,Four ,4,97,88,datsun       ,datsun pl510                        ,71,27,Japan  ,Japan  ,2130
+15.5,Four ,4,140,90,chevrolet    ,chevrolet vega 2300                 ,71,28,USA    ,USA    ,2264
+14,Four ,4,113,95,toyota       ,toyota corona                       ,71,25,Japan  ,Japan  ,2228
+19,Four ,4,98,NaN,ford         ,ford pinto                          ,71,25,USA    ,USA    ,2046
+20,Four ,4,97,48,volkswagen   ,volkswagen super beetle 117         ,71,NaN,Europe ,Germany,1978
+13,Other,6,232,100,amc          ,amc gremlin                         ,71,19,USA    ,USA    ,2634
+15.5,Other,6,225,105,plymouth     ,plymouth satellite custom           ,71,16,USA    ,USA    ,3439
+15.5,Other,6,250,100,chevrolet    ,chevrolet chevelle malibu           ,71,17,USA    ,USA    ,3329
+15.5,Other,6,250,88,ford         ,ford torino 500                     ,71,19,USA    ,USA    ,3302
+15.5,Other,6,232,100,amc          ,amc matador                         ,71,18,USA    ,USA    ,3288
+12,Other,8,350,165,chevrolet    ,chevrolet impala                    ,71,14,USA    ,USA    ,4209
+11.5,Other,8,400,175,pontiac      ,pontiac catalina brougham           ,71,14,USA    ,USA    ,4464
+13.5,Other,8,351,153,ford         ,ford galaxie 500                    ,71,14,USA    ,USA    ,4154
+13,Other,8,318,150,plymouth     ,plymouth fury iii                   ,71,14,USA    ,USA    ,4096
+11.5,Other,8,383,180,dodge        ,dodge monaco (sw)                   ,71,12,USA    ,USA    ,4955
+12,Other,8,400,170,ford         ,ford country squire (sw)            ,71,13,USA    ,USA    ,4746
+12,Other,8,400,175,pontiac      ,pontiac safari (sw)                 ,71,13,USA    ,USA    ,5140
+13.5,Other,6,258,110,amc          ,amc hornet sportabout (sw)          ,71,18,USA    ,USA    ,2962
+19,Four ,4,140,72,chevrolet    ,chevrolet vega (sw)                 ,71,22,USA    ,USA    ,2408
+15,Other,6,250,100,pontiac      ,pontiac firebird                    ,71,19,USA    ,USA    ,3282
+14.5,Other,6,250,88,ford         ,ford mustang                        ,71,18,USA    ,USA    ,3139
+14,Four ,4,122,86,mercury      ,mercury capri 2000                  ,71,23,USA    ,USA    ,2220
+14,Four ,4,116,90,opel         ,opel 1900                           ,71,28,Europe ,Germany,2123
+19.5,Four ,4,79,70,peugeot      ,peugeot 304                         ,71,30,Europe ,France ,2074
+14.5,Four ,4,88,76,fiat         ,fiat 124b                           ,71,30,Europe ,Italy  ,2065
+19,Four ,4,71,65,toyota       ,toyota corolla 1200                 ,71,31,Japan  ,Japan  ,1773
+18,Four ,4,72,69,datsun       ,datsun 1200                         ,71,35,Japan  ,Japan  ,1613
+19,Four ,4,97,60,volkswagen   ,volkswagen model 111                ,71,27,Europe ,Germany,1834
+20.5,Four ,4,91,70,plymouth     ,plymouth cricket                    ,71,26,USA    ,USA    ,1955
+15.5,Four ,4,113,95,toyota       ,toyota corona hardtop               ,72,24,Japan  ,Japan  ,2278
+17,Four ,4,97.5,80,dodge        ,dodge colt hardtop                  ,72,25,USA    ,USA    ,2126
+23.5,Four ,4,97,54,volkswagen   ,volkswagen type 3                   ,72,23,Europe ,Germany,2254
+19.5,Four ,4,140,90,chevrolet    ,chevrolet vega                      ,72,20,USA    ,USA    ,2408
+16.5,Four ,4,122,86,ford         ,ford pinto runabout                 ,72,21,USA    ,USA    ,2226
+12,Other,8,350,165,chevrolet    ,chevrolet impala                    ,72,13,USA    ,USA    ,4274
+12,Other,8,400,175,pontiac      ,pontiac catalina                    ,72,14,USA    ,USA    ,4385
+13.5,Other,8,318,150,plymouth     ,plymouth fury iii                   ,72,15,USA    ,USA    ,4135
+13,Other,8,351,153,ford         ,ford galaxie 500                    ,72,14,USA    ,USA    ,4129
+11.5,Other,8,304,150,amc          ,amc ambassador sst                  ,72,17,USA    ,USA    ,3672
+11,Other,8,429,208,mercury      ,mercury marquis                     ,72,11,USA    ,USA    ,4633
+13.5,Other,8,350,155,buick        ,buick lesabre custom                ,72,13,USA    ,USA    ,4502
+13.5,Other,8,350,160,oldsmobile   ,oldsmobile delta 88 royale          ,72,12,USA    ,USA    ,4456
+12.5,Other,8,400,190,chrysler     ,chrysler newport royal              ,72,13,USA    ,USA    ,4422
+13.5,Other,3,70,97,mazda        ,mazda rx2 coupe                     ,72,19,Japan  ,Japan  ,2330
+12.5,Other,8,304,150,amc          ,amc matador (sw)                    ,72,15,USA    ,USA    ,3892
+14,Other,8,307,130,chevrolet    ,chevrolet chevelle concours (sw)    ,72,13,USA    ,USA    ,4098
+16,Other,8,302,140,ford         ,ford gran torino (sw)               ,72,13,USA    ,USA    ,4294
+14,Other,8,318,150,plymouth     ,plymouth satellite custom (sw)      ,72,14,USA    ,USA    ,4077
+14.5,Four ,4,121,112,volvo        ,volvo 145e (sw)                     ,72,18,Europe ,Sweden ,2933
+18,Four ,4,121,76,volkswagen   ,volkswagen 411 (sw)                 ,72,22,Europe ,Germany,2511
+19.5,Four ,4,120,87,peugeot      ,peugeot 504 (sw)                    ,72,21,Europe ,France ,2979
+18,Four ,4,96,69,renault      ,renault 12 (sw)                     ,72,26,Europe ,France ,2189
+16,Four ,4,122,86,ford         ,ford pinto (sw)                     ,72,22,USA    ,USA    ,2395
+17,Four ,4,97,92,datsun       ,datsun 510 (sw)                     ,72,28,Japan  ,Japan  ,2288
+14.5,Four ,4,120,97,toyota       ,toyota corona mark ii (sw)          ,72,23,Japan  ,Japan  ,2506
+15,Four ,4,98,80,dodge        ,dodge colt (sw)                     ,72,28,USA    ,USA    ,2164
+16.5,Four ,4,97,88,toyota       ,toyota corolla 1600 (sw)            ,72,27,Japan  ,Japan  ,2100
+13,Other,8,350,175,buick        ,buick century 350                   ,73,13,USA    ,USA    ,4100
+11.5,Other,8,304,150,amc          ,amc matador                         ,73,14,USA    ,USA    ,3672
+13,Other,8,350,145,chevrolet    ,chevrolet malibu                    ,73,13,USA    ,USA    ,3988
+14.5,Other,8,302,137,ford         ,ford gran torino                    ,73,14,USA    ,USA    ,4042
+12.5,Other,8,318,150,dodge        ,dodge coronet custom                ,73,15,USA    ,USA    ,3777
+11.5,Other,8,429,198,mercury      ,mercury marquis brougham            ,73,12,USA    ,USA    ,4952
+12,Other,8,400,150,chevrolet    ,chevrolet caprice classic           ,73,13,USA    ,USA    ,4464
+13,Other,8,351,158,ford         ,ford ltd                            ,73,13,USA    ,USA    ,4363
+14.5,Other,8,318,150,plymouth     ,plymouth fury gran sedan            ,73,14,USA    ,USA    ,4237
+11,Other,8,440,215,chrysler     ,chrysler new yorker brougham        ,73,13,USA    ,USA    ,4735
+11,Other,8,455,225,buick        ,buick electra 225 custom            ,73,12,USA    ,USA    ,4951
+11,Other,8,360,175,amc          ,amc ambassador brougham             ,73,13,USA    ,USA    ,3821
+16.5,Other,6,225,105,plymouth     ,plymouth valiant                    ,73,18,USA    ,USA    ,3121
+18,Other,6,250,100,chevrolet    ,chevrolet nova custom               ,73,16,USA    ,USA    ,3278
+16,Other,6,232,100,amc          ,amc hornet                          ,73,18,USA    ,USA    ,2945
+16.5,Other,6,250,88,ford         ,ford maverick                       ,73,18,USA    ,USA    ,3021
+16,Other,6,198,95,plymouth     ,plymouth duster                     ,73,23,USA    ,USA    ,2904
+21,Four ,4,97,46,volkswagen   ,volkswagen super beetle             ,73,26,Europe ,Germany,1950
+14,Other,8,400,150,chevrolet    ,chevrolet impala                    ,73,11,USA    ,USA    ,4997
+12.5,Other,8,400,167,ford         ,ford country                        ,73,12,USA    ,USA    ,4906
+13,Other,8,360,170,plymouth     ,plymouth custom suburb              ,73,13,USA    ,USA    ,4654
+12.5,Other,8,350,180,oldsmobile   ,oldsmobile vista cruiser            ,73,12,USA    ,USA    ,4499
+15,Other,6,232,100,amc          ,amc gremlin                         ,73,18,USA    ,USA    ,2789
+19,Four ,4,97,88,toyota       ,toyota carina                       ,73,20,Japan  ,Japan  ,2279
+19.5,Four ,4,140,72,chevrolet    ,chevrolet vega                      ,73,21,USA    ,USA    ,2401
+16.5,Four ,4,108,94,datsun       ,datsun 610                          ,73,22,Japan  ,Japan  ,2379
+13.5,Other,3,70,90,mazda        ,mazda rx3                           ,73,18,Japan  ,Japan  ,2124
+18.5,Four ,4,122,85,ford         ,ford pinto                          ,73,19,USA    ,USA    ,2310
+14,Other,6,155,107,mercury      ,mercury capri v6                    ,73,21,USA    ,USA    ,2472
+15.5,Four ,4,98,90,fiat         ,fiat 124 sport coupe                ,73,26,Europe ,Italy  ,2265
+13,Other,8,350,145,chevrolet    ,chevrolet monte carlo s             ,73,15,USA    ,USA    ,4082
+9.5,Other,8,400,230,pontiac      ,pontiac grand prix                  ,73,16,USA    ,USA    ,4278
+19.5,Four ,4,68,49,fiat         ,fiat 128                            ,73,29,Europe ,Italy  ,1867
+15.5,Four ,4,116,75,opel         ,opel manta                          ,73,24,Europe ,Germany,2158
+14,Four ,4,114,91,audi         ,audi 100ls                          ,73,20,Europe ,Germany,2582
+15.5,Four ,4,121,112,volvo        ,volvo 144ea                         ,73,19,Europe ,Sweden ,2868
+11,Other,8,318,150,dodge        ,dodge dart custom                   ,73,15,USA    ,USA    ,3399
+14,Four ,4,121,110,saab         ,saab 99le                           ,73,24,Europe ,Sweden ,2660
+13.5,Other,6,156,122,toyota       ,toyota mark ii                      ,73,20,Japan  ,Japan  ,2807
+11,Other,8,350,180,oldsmobile   ,oldsmobile omega                    ,73,11,USA    ,USA    ,3664
+16.5,Other,6,198,95,plymouth     ,plymouth duster                     ,74,20,USA    ,USA    ,3102
+17,Other,6,200,NaN,ford         ,ford maverick                       ,74,21,USA    ,USA    ,2875
+16,Other,6,232,100,amc          ,amc hornet                          ,74,19,USA    ,USA    ,2901
+17,Other,6,250,100,chevrolet    ,chevrolet nova                      ,74,15,USA    ,USA    ,3336
+19,Four ,4,79,67,datsun       ,datsun b210                         ,74,31,Japan  ,Japan  ,1950
+16.5,Four ,4,122,80,ford         ,ford pinto                          ,74,26,USA    ,USA    ,2451
+21,Four ,4,71,65,toyota       ,toyota corolla 1200                 ,74,32,Japan  ,Japan  ,1836
+17,Four ,4,140,75,chevrolet    ,chevrolet vega                      ,74,25,USA    ,USA    ,2542
+17,Other,6,250,100,chevrolet    ,chevrolet chevelle malibu classic   ,74,16,USA    ,USA    ,3781
+18,Other,6,258,110,amc          ,amc matador                         ,74,16,USA    ,USA    ,3632
+16.5,Other,6,225,105,plymouth     ,plymouth satellite sebring          ,74,18,USA    ,USA    ,3613
+14,Other,8,302,140,ford         ,ford gran torino                    ,74,16,USA    ,USA    ,4141
+14.5,Other,8,350,150,buick        ,buick century luxus (sw)            ,74,13,USA    ,USA    ,4699
+13.5,Other,8,318,150,dodge        ,dodge coronet custom (sw)           ,74,14,USA    ,USA    ,4457
+16,Other,8,302,140,ford         ,ford gran torino (sw)               ,74,14,USA    ,USA    ,4638
+15.5,Other,8,304,150,amc          ,amc matador (sw)                    ,74,14,USA    ,USA    ,4257
+16.5,Four ,4,98,83,audi         ,audi fox                            ,74,29,Europe ,Germany,2219
+15.5,Four ,4,79,67,volkswagen   ,volkswagen dasher                   ,74,26,Europe ,Germany,1963
+14.5,Four ,4,97,78,opel         ,opel manta                          ,74,26,Europe ,Germany,2300
+16.5,Four ,4,76,52,toyota       ,toyota corona                       ,74,31,Japan  ,Japan  ,1649
+19,Four ,4,83,61,datsun       ,datsun 710                          ,74,32,Japan  ,Japan  ,2003
+14.5,Four ,4,90,75,dodge        ,dodge colt                          ,74,28,USA    ,USA    ,2125
+15.5,Four ,4,90,75,fiat         ,fiat 128                            ,74,24,Europe ,Italy  ,2108
+14,Four ,4,116,75,fiat         ,fiat 124 tc                         ,74,26,Europe ,Italy  ,2246
+15,Four ,4,120,97,honda        ,honda civic                         ,74,24,Japan  ,Japan  ,2489
+15.5,Four ,4,108,93,subaru       ,subaru                              ,74,26,Japan  ,Japan  ,2391
+16,Four ,4,79,67,fiat         ,fiat x1.9                           ,74,31,Europe ,Italy  ,2000
+16,Other,6,225,95,plymouth     ,plymouth valiant custom             ,75,19,USA    ,USA    ,3264
+16,Other,6,250,105,chevrolet    ,chevrolet nova                      ,75,18,USA    ,USA    ,3459
+21,Other,6,250,72,mercury      ,mercury monarch                     ,75,15,USA    ,USA    ,3432
+19.5,Other,6,250,72,ford         ,ford maverick                       ,75,15,USA    ,USA    ,3158
+11.5,Other,8,400,170,pontiac      ,pontiac catalina                    ,75,16,USA    ,USA    ,4668
+14,Other,8,350,145,chevrolet    ,chevrolet bel air                   ,75,15,USA    ,USA    ,4440
+14.5,Other,8,318,150,plymouth     ,plymouth grand fury                 ,75,16,USA    ,USA    ,4498
+13.5,Other,8,351,148,ford         ,ford ltd                            ,75,14,USA    ,USA    ,4657
+21,Other,6,231,110,buick        ,buick century                       ,75,17,USA    ,USA    ,3907
+18.5,Other,6,250,105,chevrolet    ,chevrolet chevelle malibu           ,75,16,USA    ,USA    ,3897
+19,Other,6,258,110,amc          ,amc matador                         ,75,15,USA    ,USA    ,3730
+19,Other,6,225,95,plymouth     ,plymouth fury                       ,75,18,USA    ,USA    ,3785
+15,Other,6,231,110,buick        ,buick skyhawk                       ,75,21,USA    ,USA    ,3039
+13.5,Other,8,262,110,chevrolet    ,chevrolet monza 2+2                 ,75,20,USA    ,USA    ,3221
+12,Other,8,302,129,ford         ,ford mustang ii                     ,75,13,USA    ,USA    ,3169
+16,Four ,4,97,75,toyota       ,toyota corolla                      ,75,29,Japan  ,Japan  ,2171
+17,Four ,4,140,83,ford         ,ford pinto                          ,75,23,USA    ,USA    ,2639
+16,Other,6,232,100,amc          ,amc gremlin                         ,75,20,USA    ,USA    ,2914
+18.5,Four ,4,140,78,pontiac      ,pontiac astro                       ,75,23,USA    ,USA    ,2592
+13.5,Four ,4,134,96,toyota       ,toyota corona                       ,75,24,Japan  ,Japan  ,2702
+16.5,Four ,4,90,71,volkswagen   ,volkswagen dasher                   ,75,25,Europe ,Germany,2223
+17,Four ,4,119,97,datsun       ,datsun 710                          ,75,24,Japan  ,Japan  ,2545
+14.5,Other,6,171,97,ford         ,ford pinto                          ,75,18,USA    ,USA    ,2984
+14,Four ,4,90,70,volkswagen   ,volkswagen rabbit                   ,75,29,Europe ,Germany,1937
+17,Other,6,232,90,amc          ,amc pacer                           ,75,19,USA    ,USA    ,3211
+15,Four ,4,115,95,audi         ,audi 100ls                          ,75,23,Europe ,Germany,2694
+17,Four ,4,120,88,peugeot      ,peugeot 504                         ,75,23,Europe ,France ,2957
+14.5,Four ,4,121,98,volvo        ,volvo 244dl                         ,75,22,Europe ,Sweden ,2945
+13.5,Four ,4,121,115,saab         ,saab 99le                           ,75,25,Europe ,Sweden ,2671
+17.5,Four ,4,91,53,honda        ,honda civic cvcc                    ,75,33,Japan  ,Japan  ,1795
+15.5,Four ,4,107,86,fiat         ,fiat 131                            ,76,28,Europe ,Italy  ,2464
+16.9,Four ,4,116,81,opel         ,opel 1900                           ,76,25,Europe ,Germany,2220
+14.9,Four ,4,140,92,ford         ,ford capri ii                       ,76,25,USA    ,USA    ,2572
+17.7,Four ,4,98,79,dodge        ,dodge colt                          ,76,26,USA    ,USA    ,2255
+15.3,Four ,4,101,83,renault      ,renault 12tl                        ,76,27,Europe ,France ,2202
+13,Other,8,305,140,chevrolet    ,chevrolet chevelle malibu classic   ,76,17.5,USA    ,USA    ,4215
+13,Other,8,318,150,dodge        ,dodge coronet brougham              ,76,16,USA    ,USA    ,4190
+13.9,Other,8,304,120,amc          ,amc matador                         ,76,15.5,USA    ,USA    ,3962
+12.8,Other,8,351,152,ford         ,ford gran torino                    ,76,14.5,USA    ,USA    ,4215
+15.4,Other,6,225,100,plymouth     ,plymouth valiant                    ,76,22,USA    ,USA    ,3233
+14.5,Other,6,250,105,chevrolet    ,chevrolet nova                      ,76,22,USA    ,USA    ,3353
+17.6,Other,6,200,81,ford         ,ford maverick                       ,76,24,USA    ,USA    ,3012
+17.6,Other,6,232,90,amc          ,amc hornet                          ,76,22.5,USA    ,USA    ,3085
+22.2,Four ,4,85,52,chevrolet    ,chevrolet chevette                  ,76,29,USA    ,USA    ,2035
+22.1,Four ,4,98,60,chevrolet    ,chevrolet woody                     ,76,24.5,USA    ,USA    ,2164
+14.2,Four ,4,90,70,volkswagen   ,volkswagen rabbit                   ,76,29,Europe ,Germany,1937
+17.4,Four ,4,91,53,honda        ,honda civic                         ,76,33,Japan  ,Japan  ,1795
+17.7,Other,6,225,100,dodge        ,dodge aspen se                      ,76,20,USA    ,USA    ,3651
+21,Other,6,250,78,ford         ,ford granada ghia                   ,76,18,USA    ,USA    ,3574
+16.2,Other,6,250,110,pontiac      ,pontiac ventura sj                  ,76,18.5,USA    ,USA    ,3645
+17.8,Other,6,258,95,amc          ,amc pacer d/l                       ,76,17.5,USA    ,USA    ,3193
+12.2,Four ,4,97,71,volkswagen   ,volkswagen rabbit                   ,76,29.5,Europe ,Germany,1825
+17,Four ,4,85,70,datsun       ,datsun b-210                        ,76,32,Japan  ,Japan  ,1990
+16.4,Four ,4,97,75,toyota       ,toyota corolla                      ,76,28,Japan  ,Japan  ,2155
+13.6,Four ,4,140,72,ford         ,ford pinto                          ,76,26.5,USA    ,USA    ,2565
+15.7,Four ,4,130,102,volvo        ,volvo 245                           ,76,20,Europe ,Sweden ,3150
+13.2,Other,8,318,150,plymouth     ,plymouth volare premier v8          ,76,13,USA    ,USA    ,3940
+21.9,Four ,4,120,88,peugeot      ,peugeot 504                         ,76,19,Europe ,France ,3270
+15.5,Other,6,156,108,toyota       ,toyota mark ii                      ,76,19,Japan  ,Japan  ,2930
+16.7,Other,6,168,120,mercedes-benz,mercedes-benz 280s                  ,76,16.5,Europe ,Germany,3820
+12.1,Other,8,350,180,cadillac     ,cadillac seville                    ,76,16.5,USA    ,USA    ,4380
+12,Other,8,350,145,chevrolet    ,chevrolet c10                       ,76,13,USA    ,USA    ,4055
+15,Other,8,302,130,ford         ,ford f108                           ,76,13,USA    ,USA    ,3870
+14,Other,8,318,150,dodge        ,dodge d100                          ,76,13,USA    ,USA    ,3755
+18.5,Four ,4,98,68,honda        ,honda accord cvcc                   ,77,31.5,Japan  ,Japan  ,2045
+14.8,Four ,4,111,80,buick        ,buick opel isuzu deluxe             ,77,30,USA    ,USA    ,2155
+18.6,Four ,4,79,58,renault      ,renault 5 gtl                       ,77,36,Europe ,France ,1825
+15.5,Four ,4,122,96,plymouth     ,plymouth arrow gs                   ,77,25.5,USA    ,USA    ,2300
+16.8,Four ,4,85,70,datsun       ,datsun f-10 hatchback               ,77,33.5,Japan  ,Japan  ,1945
+12.5,Other,8,305,145,chevrolet    ,chevrolet caprice classic           ,77,17.5,USA    ,USA    ,3880
+19,Other,8,260,110,oldsmobile   ,oldsmobile cutlass supreme          ,77,17,USA    ,USA    ,4060
+13.7,Other,8,318,145,dodge        ,dodge monaco brougham               ,77,15.5,USA    ,USA    ,4140
+14.9,Other,8,302,130,mercury      ,mercury cougar brougham             ,77,15,USA    ,USA    ,4295
+16.4,Other,6,250,110,chevrolet    ,chevrolet concours                  ,77,17.5,USA    ,USA    ,3520
+16.9,Other,6,231,105,buick        ,buick skylark                       ,77,20.5,USA    ,USA    ,3425
+17.7,Other,6,225,100,plymouth     ,plymouth volare custom              ,77,19,USA    ,USA    ,3630
+19,Other,6,250,98,ford         ,ford granada                        ,77,18.5,USA    ,USA    ,3525
+11.1,Other,8,400,180,pontiac      ,pontiac grand prix lj               ,77,16,USA    ,USA    ,4220
+11.4,Other,8,350,170,chevrolet    ,chevrolet monte carlo landau        ,77,15.5,USA    ,USA    ,4165
+12.2,Other,8,400,190,chrysler     ,chrysler cordoba                    ,77,15.5,USA    ,USA    ,4325
+14.5,Other,8,351,149,ford         ,ford thunderbird                    ,77,16,USA    ,USA    ,4335
+14.5,Four ,4,97,78,volkswagen   ,volkswagen rabbit custom            ,77,29,Europe ,Germany,1940
+16,Four ,4,151,88,pontiac      ,pontiac sunbird coupe               ,77,24.5,USA    ,USA    ,2740
+18.2,Four ,4,97,75,toyota       ,toyota corolla liftback             ,77,26,Japan  ,Japan  ,2265
+15.8,Four ,4,140,89,ford         ,ford mustang ii 2+2                 ,77,25.5,USA    ,USA    ,2755
+17,Four ,4,98,63,chevrolet    ,chevrolet chevette                  ,77,30.5,USA    ,USA    ,2051
+15.9,Four ,4,98,83,dodge        ,dodge colt m/m                      ,77,33.5,USA    ,USA    ,2075
+16.4,Four ,4,97,67,subaru       ,subaru dl                           ,77,30,Japan  ,Japan  ,1985
+14.1,Four ,4,97,78,volkswagen   ,volkswagen dasher                   ,77,30.5,Europe ,Germany,2190
+14.5,Other,6,146,97,datsun       ,datsun 810                          ,77,22,Japan  ,Japan  ,2815
+12.8,Four ,4,121,110,bmw          ,bmw 320i                            ,77,21.5,Europe ,Germany,2600
+13.5,Other,3,80,110,mazda        ,mazda rx-4                          ,77,21.5,Japan  ,Japan  ,2720
+21.5,Four ,4,90,48,volkswagen   ,volkswagen rabbit custom diesel     ,78,43.1,Europe ,Germany,1985
+14.4,Four ,4,98,66,ford         ,ford fiesta                         ,78,36.1,USA    ,USA    ,1800
+19.4,Four ,4,78,52,mazda        ,mazda glc deluxe                    ,78,32.8,Japan  ,Japan  ,1985
+18.6,Four ,4,85,70,datsun       ,datsun b210 gx                      ,78,39.4,Japan  ,Japan  ,2070
+16.4,Four ,4,91,60,honda        ,honda civic cvcc                    ,78,36.1,Japan  ,Japan  ,1800
+15.5,Other,8,260,110,oldsmobile   ,oldsmobile cutlass salon brougham   ,78,19.9,USA    ,USA    ,3365
+13.2,Other,8,318,140,dodge        ,dodge diplomat                      ,78,19.4,USA    ,USA    ,3735
+12.8,Other,8,302,139,mercury      ,mercury monarch ghia                ,78,20.2,USA    ,USA    ,3570
+19.2,Other,6,231,105,pontiac      ,pontiac phoenix lj                  ,78,19.2,USA    ,USA    ,3535
+18.2,Other,6,200,95,chevrolet    ,chevrolet malibu                    ,78,20.5,USA    ,USA    ,3155
+15.8,Other,6,200,85,ford         ,ford fairmont (auto)                ,78,20.2,USA    ,USA    ,2965
+15.4,Four ,4,140,88,ford         ,ford fairmont (man)                 ,78,25.1,USA    ,USA    ,2720
+17.2,Other,6,225,100,plymouth     ,plymouth volare                     ,78,20.5,USA    ,USA    ,3430
+17.2,Other,6,232,90,amc          ,amc concord                         ,78,19.4,USA    ,USA    ,3210
+15.8,Other,6,231,105,buick        ,buick century special               ,78,20.6,USA    ,USA    ,3380
+16.7,Other,6,200,85,mercury      ,mercury zephyr                      ,78,20.8,USA    ,USA    ,3070
+18.7,Other,6,225,110,dodge        ,dodge aspen                         ,78,18.6,USA    ,USA    ,3620
+15.1,Other,6,258,120,amc          ,amc concord d/l                     ,78,18.1,USA    ,USA    ,3410
+13.2,Other,8,305,145,chevrolet    ,chevrolet monte carlo landau        ,78,19.2,USA    ,USA    ,3425
+13.4,Other,6,231,165,buick        ,buick regal sport coupe (turbo)     ,78,17.7,USA    ,USA    ,3445
+11.2,Other,8,302,139,ford         ,ford futura                         ,78,18.1,USA    ,USA    ,3205
+13.7,Other,8,318,140,dodge        ,dodge magnum xe                     ,78,17.5,USA    ,USA    ,4080
+16.5,Four ,4,98,68,chevrolet    ,chevrolet chevette                  ,78,30,USA    ,USA    ,2155
+14.2,Four ,4,134,95,toyota       ,toyota corona                       ,78,27.5,Japan  ,Japan  ,2560
+14.7,Four ,4,119,97,datsun       ,datsun 510                          ,78,27.2,Japan  ,Japan  ,2300
+14.5,Four ,4,105,75,dodge        ,dodge omni                          ,78,30.9,USA    ,USA    ,2230
+14.8,Four ,4,134,95,toyota       ,toyota celica gt liftback           ,78,21.1,Japan  ,Japan  ,2515
+16.7,Four ,4,156,105,plymouth     ,plymouth sapporo                    ,78,23.2,USA    ,USA    ,2745
+17.6,Four ,4,151,85,oldsmobile   ,oldsmobile starfire sx              ,78,23.8,USA    ,USA    ,2855
+14.9,Four ,4,119,97,datsun       ,datsun 200-sx                       ,78,23.9,Japan  ,Japan  ,2405
+15.9,Other,5,131,103,audi         ,audi 5000                           ,78,20.3,Europe ,Germany,2830
+13.6,Other,6,163,125,volvo        ,volvo 264gl                         ,78,17,Europe ,Sweden ,3140
+15.7,Four ,4,121,115,saab         ,saab 99gle                          ,78,21.6,Europe ,Sweden ,2795
+15.8,Other,6,163,133,peugeot      ,peugeot 604sl                       ,78,16.2,Europe ,France ,3410
+14.9,Four ,4,89,71,volkswagen   ,volkswagen scirocco                 ,78,31.5,Europe ,Germany,1990
+16.6,Four ,4,98,68,honda        ,honda accord lx                     ,78,29.5,Japan  ,Japan  ,2135
+15.4,Other,6,231,115,pontiac      ,pontiac lemans v6                   ,79,21.5,USA    ,USA    ,3245
+18.2,Other,6,200,85,mercury      ,mercury zephyr 6                    ,79,19.8,USA    ,USA    ,2990
+17.3,Four ,4,140,88,ford         ,ford fairmont 4                     ,79,22.3,USA    ,USA    ,2890
+18.2,Other,6,232,90,amc          ,amc concord dl 6                    ,79,20.2,USA    ,USA    ,3265
+16.6,Other,6,225,110,dodge        ,dodge aspen 6                       ,79,20.6,USA    ,USA    ,3360
+15.4,Other,8,305,130,chevrolet    ,chevrolet caprice classic           ,79,17,USA    ,USA    ,3840
+13.4,Other,8,302,129,ford         ,ford ltd landau                     ,79,17.6,USA    ,USA    ,3725
+13.2,Other,8,351,138,mercury      ,mercury grand marquis               ,79,16.5,USA    ,USA    ,3955
+15.2,Other,8,318,135,dodge        ,dodge st. regis                     ,79,18.2,USA    ,USA    ,3830
+14.9,Other,8,350,155,buick        ,buick estate wagon (sw)             ,79,16.9,USA    ,USA    ,4360
+14.3,Other,8,351,142,ford         ,ford country squire (sw)            ,79,15.5,USA    ,USA    ,4054
+15,Other,8,267,125,chevrolet    ,chevrolet malibu classic (sw)       ,79,19.2,USA    ,USA    ,3605
+13,Other,8,360,150,chrysler     ,chrysler lebaron town @ country (sw),79,18.5,USA    ,USA    ,3940
+14,Four ,4,89,71,volkswagen   ,volkswagen rabbit custom            ,79,31.9,Europe ,Germany,1925
+15.2,Four ,4,86,65,mazda        ,mazda glc deluxe                    ,79,34.1,Japan  ,Japan  ,1975
+14.4,Four ,4,98,80,dodge        ,dodge colt hatchback custom         ,79,35.7,USA    ,USA    ,1915
+15,Four ,4,121,80,amc          ,amc spirit dl                       ,79,27.4,USA    ,USA    ,2670
+20.1,Other,5,183,77,mercedes-benz,mercedes-benz 300d                  ,79,25.4,Europe ,Germany,3530
+17.4,Other,8,350,125,cadillac     ,cadillac eldorado                   ,79,23,USA    ,USA    ,3900
+24.8,Four ,4,141,71,peugeot      ,peugeot 504                         ,79,27.2,Europe ,France ,3190
+22.2,Other,8,260,90,oldsmobile   ,oldsmobile cutlass salon brougham   ,79,23.9,USA    ,USA    ,3420
+13.2,Four ,4,105,70,plymouth     ,plymouth horizon                    ,79,34.2,USA    ,USA    ,2200
+14.9,Four ,4,105,70,plymouth     ,plymouth horizon tc3                ,79,34.5,USA    ,USA    ,2150
+19.2,Four ,4,85,65,datsun       ,datsun 210                          ,79,31.8,Japan  ,Japan  ,2020
+14.7,Four ,4,91,69,fiat         ,fiat strada custom                  ,79,37.3,Europe ,Italy  ,2130
+16,Four ,4,151,90,buick        ,buick skylark limited               ,79,28.4,USA    ,USA    ,2670
+11.3,Other,6,173,115,chevrolet    ,chevrolet citation                  ,79,28.8,USA    ,USA    ,2595
+12.9,Other,6,173,115,oldsmobile   ,oldsmobile omega brougham           ,79,26.8,USA    ,USA    ,2700
+13.2,Four ,4,151,90,pontiac      ,pontiac phoenix                     ,79,33.5,USA    ,USA    ,2556
+14.7,Four ,4,98,76,volkswagen   ,volkswagen rabbit                   ,80,41.5,Europe ,Germany,2144
+18.8,Four ,4,89,60,toyota       ,toyota corolla tercel               ,80,38.1,Japan  ,Japan  ,1968
+15.5,Four ,4,98,70,chevrolet    ,chevrolet chevette                  ,80,32.1,USA    ,USA    ,2120
+16.4,Four ,4,86,65,datsun       ,datsun 310                          ,80,37.2,Japan  ,Japan  ,2019
+16.5,Four ,4,151,90,chevrolet    ,chevrolet citation                  ,80,28,USA    ,USA    ,2678
+18.1,Four ,4,140,88,ford         ,ford fairmont                       ,80,26.4,USA    ,USA    ,2870
+20.1,Four ,4,151,90,amc          ,amc concord                         ,80,24.3,USA    ,USA    ,3003
+18.7,Other,6,225,90,dodge        ,dodge aspen                         ,80,19.1,USA    ,USA    ,3381
+15.8,Four ,4,97,78,audi         ,audi 4000                           ,80,34.3,Europe ,Germany,2188
+15.5,Four ,4,134,90,toyota       ,toyota corona liftback              ,80,29.8,Japan  ,Japan  ,2711
+17.5,Four ,4,120,75,mazda        ,mazda 626                           ,80,31.3,Japan  ,Japan  ,2542
+15,Four ,4,119,92,datsun       ,datsun 510 hatchback                ,80,37,Japan  ,Japan  ,2434
+15.2,Four ,4,108,75,toyota       ,toyota corolla                      ,80,32.2,Japan  ,Japan  ,2265
+17.9,Four ,4,86,65,mazda        ,mazda glc                           ,80,46.6,Japan  ,Japan  ,2110
+14.4,Four ,4,156,105,dodge        ,dodge colt                          ,80,27.9,USA    ,USA    ,2800
+19.2,Four ,4,85,65,datsun       ,datsun 210                          ,80,40.8,Japan  ,Japan  ,2110
+21.7,Four ,4,90,48,volkswagen   ,volkswagen rabbit c (diesel)        ,80,44.3,Europe ,Germany,2085
+23.7,Four ,4,90,48,volkswagen   ,volkswagen dasher (diesel)          ,80,43.4,Europe ,Germany,2335
+19.9,Other,5,121,67,audi         ,audi 5000s (diesel)                 ,80,36.4,Europe ,Germany,2950
+21.8,Four ,4,146,67,mercedes-benz,mercedes-benz 240d                  ,80,30,Europe ,Germany,3250
+13.8,Four ,4,91,67,honda        ,honda civic 1500 gl                 ,80,44.6,Japan  ,Japan  ,1850
+17.3,Four ,4,85,NaN,renault      ,renault lecar deluxe                ,80,40.9,Europe ,France ,1835
+18,Four ,4,97,67,subaru       ,subaru dl                           ,80,33.8,Japan  ,Japan  ,2145
+15.3,Four ,4,89,62,volkswagen   ,volkswagen rabbit                   ,80,29.8,Europe ,Germany,1845
+11.4,Other,6,168,132,datsun       ,datsun 280-zx                       ,80,32.7,Japan  ,Japan  ,2910
+12.5,Other,3,70,100,mazda        ,mazda rx-7 gs                       ,80,23.7,Japan  ,Japan  ,2420
+15.1,Four ,4,122,88,triumph      ,triumph tr7 coupe                   ,80,35,Europe ,England,2500
+14.3,Four ,4,140,NaN,ford         ,ford mustang cobra                  ,80,23.6,USA    ,USA    ,2905
+17,Four ,4,107,72,honda        ,honda accord                        ,80,32.4,Japan  ,Japan  ,2290
+15.7,Four ,4,135,84,plymouth     ,plymouth reliant                    ,81,27.2,USA    ,USA    ,2490
+16.4,Four ,4,151,84,buick        ,buick skylark                       ,81,26.6,USA    ,USA    ,2635
+14.4,Four ,4,156,92,dodge        ,dodge aries wagon (sw)              ,81,25.8,USA    ,USA    ,2620
+12.6,Other,6,173,110,chevrolet    ,chevrolet citation                  ,81,23.5,USA    ,USA    ,2725
+12.9,Four ,4,135,84,plymouth     ,plymouth reliant                    ,81,30,USA    ,USA    ,2385
+16.9,Four ,4,79,58,toyota       ,toyota starlet                      ,81,39.1,Japan  ,Japan  ,1755
+16.4,Four ,4,86,64,plymouth     ,plymouth champ                      ,81,39,USA    ,USA    ,1875
+16.1,Four ,4,81,60,honda        ,honda civic 1300                    ,81,35.1,Japan  ,Japan  ,1760
+17.8,Four ,4,97,67,subaru       ,subaru                              ,81,32.3,Japan  ,Japan  ,2065
+19.4,Four ,4,85,65,datsun       ,datsun 210 mpg                      ,81,37,Japan  ,Japan  ,1975
+17.3,Four ,4,89,62,toyota       ,toyota tercel                       ,81,37.7,Japan  ,Japan  ,2050
+16,Four ,4,91,68,mazda        ,mazda glc 4                         ,81,34.1,Japan  ,Japan  ,1985
+14.9,Four ,4,105,63,plymouth     ,plymouth horizon 4                  ,81,34.7,USA    ,USA    ,2215
+16.2,Four ,4,98,65,ford         ,ford escort 4w                      ,81,34.4,USA    ,USA    ,2045
+20.7,Four ,4,98,65,ford         ,ford escort 2h                      ,81,29.9,USA    ,USA    ,2380
+14.2,Four ,4,105,74,volkswagen   ,volkswagen jetta                    ,81,33,Europe ,Germany,2190
+15.8,Four ,4,100,NaN,renault      ,renault 18i                         ,81,34.5,Europe ,France ,2320
+14.4,Four ,4,107,75,honda        ,honda prelude                       ,81,33.7,Japan  ,Japan  ,2210
+16.8,Four ,4,108,75,toyota       ,toyota corolla                      ,81,32.4,Japan  ,Japan  ,2350
+14.8,Four ,4,119,100,datsun       ,datsun 200sx                        ,81,32.9,Japan  ,Japan  ,2615
+18.3,Four ,4,120,74,mazda        ,mazda 626                           ,81,31.6,Japan  ,Japan  ,2635
+20.4,Four ,4,141,80,peugeot      ,peugeot 505s turbo diesel           ,81,28.1,Europe ,France ,3230
+15.4,Four ,4,121,110,saab         ,saab 900s                           ,81,NaN,Europe ,Sweden ,2800
+19.6,Other,6,145,76,volvo        ,volvo diesel                        ,81,30.7,Europe ,Sweden ,3160
+12.6,Other,6,168,116,toyota       ,toyota cressida                     ,81,25.4,Japan  ,Japan  ,2900
+13.8,Other,6,146,120,datsun       ,datsun 810 maxima                   ,81,24.2,Japan  ,Japan  ,2930
+15.8,Other,6,231,110,buick        ,buick century                       ,81,22.4,USA    ,USA    ,3415
+19,Other,8,350,105,oldsmobile   ,oldsmobile cutlass ls               ,81,26.6,USA    ,USA    ,3725
+17.1,Other,6,200,88,ford         ,ford granada gl                     ,81,20.2,USA    ,USA    ,3060
+16.6,Other,6,225,85,chrysler     ,chrysler lebaron salon              ,81,17.6,USA    ,USA    ,3465
+19.6,Four ,4,112,88,chevrolet    ,chevrolet cavalier                  ,82,28,USA    ,USA    ,2605
+18.6,Four ,4,112,88,chevrolet    ,chevrolet cavalier wagon            ,82,27,USA    ,USA    ,2640
+18,Four ,4,112,88,chevrolet    ,chevrolet cavalier 2-door           ,82,34,USA    ,USA    ,2395
+16.2,Four ,4,112,85,pontiac      ,pontiac j2000 se hatchback          ,82,31,USA    ,USA    ,2575
+16,Four ,4,135,84,dodge        ,dodge aries se                      ,82,29,USA    ,USA    ,2525
+18,Four ,4,151,90,pontiac      ,pontiac phoenix                     ,82,27,USA    ,USA    ,2735
+16.4,Four ,4,140,92,ford         ,ford fairmont futura                ,82,24,USA    ,USA    ,2865
+20.5,Four ,4,151,NaN,amc          ,amc concord dl                      ,82,23,USA    ,USA    ,3035
+15.3,Four ,4,105,74,volkswagen   ,volkswagen rabbit l                 ,82,36,Europe ,Germany,1980
+18.2,Four ,4,91,68,mazda        ,mazda glc custom l                  ,82,37,Japan  ,Japan  ,2025
+17.6,Four ,4,91,68,mazda        ,mazda glc custom                    ,82,31,Japan  ,Japan  ,1970
+14.7,Four ,4,105,63,plymouth     ,plymouth horizon miser              ,82,38,USA    ,USA    ,2125
+17.3,Four ,4,98,70,mercury      ,mercury lynx l                      ,82,36,USA    ,USA    ,2125
+14.5,Four ,4,120,88,nissan       ,nissan stanza xe                    ,82,36,Japan  ,Japan  ,2160
+14.5,Four ,4,107,75,honda        ,honda accord                        ,82,36,Japan  ,Japan  ,2205
+16.9,Four ,4,108,70,toyota       ,toyota corolla                      ,82,34,Japan  ,Japan  ,2245
+15,Four ,4,91,67,honda        ,honda civic                         ,82,38,Japan  ,Japan  ,1965
+15.7,Four ,4,91,67,honda        ,honda civic (auto)                  ,82,32,Japan  ,Japan  ,1965
+16.2,Four ,4,91,67,datsun       ,datsun 310 gx                       ,82,38,Japan  ,Japan  ,1995
+16.4,Other,6,181,110,buick        ,buick century limited               ,82,25,USA    ,USA    ,2945
+17,Other,6,262,85,oldsmobile   ,oldsmobile cutlass ciera (diesel)   ,82,38,USA    ,USA    ,3015
+14.5,Four ,4,156,92,chrysler     ,chrysler lebaron medallion          ,82,26,USA    ,USA    ,2585
+14.7,Other,6,232,112,ford         ,ford granada l                      ,82,22,USA    ,USA    ,2835
+13.9,Four ,4,144,96,toyota       ,toyota celica gt                    ,82,32,Japan  ,Japan  ,2665
+13,Four ,4,135,84,dodge        ,dodge charger 2.2                   ,82,36,USA    ,USA    ,2370
+17.3,Four ,4,151,90,chevrolet    ,chevrolet camaro                    ,82,27,USA    ,USA    ,2950
+15.6,Four ,4,140,86,ford         ,ford mustang gl                     ,82,27,USA    ,USA    ,2790
+24.6,Four ,4,97,52,volkswagen   ,volkswagen pickup                   ,82,44,Europe ,Germany,2130
+11.6,Four ,4,135,84,dodge        ,dodge rampage                       ,82,32,USA    ,USA    ,2295
+18.6,Four ,4,120,79,ford         ,ford ranger                         ,82,28,USA    ,USA    ,2625
+19.4,Four ,4,119,82,chevrolet    ,chevrolet s-10                      ,82,31,USA    ,USA    ,2720
