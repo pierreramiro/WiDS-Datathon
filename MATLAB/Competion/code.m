@@ -27,11 +27,11 @@ writetable(data,'wids.csv');
 regressionLearner
 %%
 clear
-load ('dataTrained_2nd.mat')
+load ('dataTrained_3nd.mat')
 %Cargamos la data a entrenar
 testData=readtable("test.csv");
 %Eliminamos algunas columnas
-testData= removevars(testData, {'State_Factor', 'building_class','facility_type','direction_max_wind_speed','direction_peak_wind_speed','max_wind_speed','days_with_fog'});
+testData= removevars(testData, {'direction_max_wind_speed','direction_peak_wind_speed','max_wind_speed','days_with_fog'});
 %Movemos la columna id
 testData = movevars(testData, 'id', 'Before', 'Year_Factor');
 predictedData=trainedModel.predictFcn(testData);
