@@ -10,8 +10,13 @@ summary(data)
 data= removevars(data,{'direction_max_wind_speed','direction_peak_wind_speed','max_wind_speed','days_with_fog'});
 
 %"promediamos la data faltante"
+<<<<<<< HEAD
 data.energy_star_rating = fillmissing(data.energy_star_rating, 'spline');
 %data.year_built = fillmissing(data.year_built, 'makima');
+=======
+data.energy_star_rating = fillmissing(data.energy_star_rating, 'pchip');
+data.year_built = fillmissing(data.year_built, 'makima');
+>>>>>>> 7bfc6134695d1f51624175c6af8d88872c50063f
 %Movemos la columna de "enfoque" al final
 data = movevars(data, 'site_eui', 'After', 'id');
 data = movevars(data, 'id', 'Before', 'Year_Factor');
@@ -27,15 +32,15 @@ writetable(data,'wids.csv');
 regressionLearner
 %%
 clear
-load ('dataTrained_2nd.mat')
+load ('dataTrained_4th.mat')
 %Cargamos la data a entrenar
 testData=readtable("test.csv");
 %Eliminamos algunas columnas
-testData= removevars(testData, {'State_Factor', 'building_class','facility_type','direction_max_wind_speed','direction_peak_wind_speed','max_wind_speed','days_with_fog'});
+testData= removevars(testData, {'direction_max_wind_speed','direction_peak_wind_speed','max_wind_speed','days_with_fog'});
 %Movemos la columna id
 testData = movevars(testData, 'id', 'Before', 'Year_Factor');
 predictedData=trainedModel.predictFcn(testData);
 tempMatrix=readmatrix("sample_solution.csv");
-tempMatrix(:,2)=predictedData*0.74;%favoreció multiplicar el 0.74
+tempMatrix(:,2)=predictedData*1.017;%favoreció multiplicar el 1.017
 solution=table(tempMatrix(:,1),tempMatrix(:,2),'VariableNames',{'id','site_eui'});
 writetable(solution,"solution.csv")
