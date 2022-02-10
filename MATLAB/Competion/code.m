@@ -10,7 +10,7 @@ summary(data)
 data= removevars(data,{'direction_max_wind_speed','direction_peak_wind_speed','max_wind_speed','days_with_fog'});
 
 %"promediamos la data faltante"
-data.energy_star_rating = fillmissing(data.energy_star_rating, 'linear');
+data.energy_star_rating = fillmissing(data.energy_star_rating, 'spline');
 %data.year_built = fillmissing(data.year_built, 'makima');
 %Movemos la columna de "enfoque" al final
 data = movevars(data, 'site_eui', 'After', 'id');
