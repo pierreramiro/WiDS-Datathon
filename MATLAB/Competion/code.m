@@ -33,7 +33,7 @@ clc
 regressionLearner
 %%
 clear
-load ('dataTrained_6th.mat')
+load ('dataTrained_5th.mat')
 %Cargamos la data a entrenar
 testData=readtable("test.csv");
 %Eliminamos algunas columnas
@@ -42,6 +42,6 @@ testData= removevars(testData, {'direction_max_wind_speed','direction_peak_wind_
 testData = movevars(testData, 'id', 'Before', 'Year_Factor');
 predictedData=trainedModel.predictFcn(testData);
 tempMatrix=readmatrix("sample_solution.csv");
-tempMatrix(:,2)=predictedData*1.017;%favoreció multiplicar el 1.017
+tempMatrix(:,2)=predictedData;%favoreció multiplicar el 1.017
 solution=table(tempMatrix(:,1),tempMatrix(:,2),'VariableNames',{'id','site_eui'});
 writetable(solution,"solution.csv")
