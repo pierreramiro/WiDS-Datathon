@@ -3,9 +3,11 @@ clc
 %Lo hacemos con este siguiente comando, evitamos usar la herramienta de MATLAB
 data=readtable("train.csv");
 % analizamos la data
+%summary(data)
 data=rmmissing(data, 'DataVariables', 'energy_star_rating');
 data=rmmissing(data, 'DataVariables', 'year_built');
 summary(data)
+%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %eliminamos caracteres y columnas innecesarias
 %data= removevars(data, {'State_Factor', 'building_class','facility_type','direction_max_wind_speed','direction_peak_wind_speed','max_wind_speed','days_with_fog'});
@@ -27,6 +29,7 @@ clc
 fprintf("Espera a que se abra la aplicación, puede demorar segundos")
 writetable(data,'wids.csv');
 %%
+clc
 regressionLearner
 %%
 clear
