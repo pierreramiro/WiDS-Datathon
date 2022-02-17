@@ -33,7 +33,7 @@ clc
 regressionLearner
 %%
 clear
-load ('dataTrained_4th.mat')
+load ('dataTrained_6th.mat')
 %Cargamos la data a entrenar
 testData=readtable("test.csv");
 %Eliminamos algunas columnas
