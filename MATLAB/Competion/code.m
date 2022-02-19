@@ -1,53 +1,46 @@
 %% Importamos,analizamos y limpiamos
-clc
-%Lo hacemos con este siguiente comando, evitamos usar la herramienta de MATLAB
-data=readtable("train.csv");
+clc;clear
 % analizamos la data
-%summary(data)
-data=rmmissing(data, 'DataVariables', 'energy_star_rating');
-data=rmmissing(data, 'DataVariables', 'year_built');
-summary(data)
+summary(readtable("train.csv"))
 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%eliminamos caracteres y columnas innecesarias
-%data= removevars(data, {'State_Factor', 'building_class','facility_type','direction_max_wind_speed','direction_peak_wind_speed','max_wind_speed','days_with_fog'});
-data= removevars(data,{'direction_max_wind_speed','direction_peak_wind_speed','max_wind_speed','days_with_fog'});
-%"promediamos la data faltante"
-data.energy_star_rating = fillmissing(data.energy_star_rating, 'pchip');
-data.year_built = fillmissing(data.year_built, 'makima');
-%Movemos la columna de "enfoque" al final
-data = movevars(data, 'site_eui', 'After', 'id');
-data = movevars(data, 'id', 'Before', 'Year_Factor');
-%%%%eliminamos un 10%
-%percentToDelete=10;
-%testIdx = 1:100/percentToDelete:height(data);
-%data(testIdx, : ) = [];
-data= removevars(data, {'id'});
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Solo nos quedamos con las columnas que deseamos
+data=readtable("train.csv");
 data=data(:,{'facility_type','energy_star_rating','year_built','floor_area','State_Factor','site_eui'});
 %Agregamos la nueva columna, mezcla de palabras
-lastCol=data(:,{'facility_type','energy_star_rating','year_built','State_Factor','site_eui'});
+lastCol=data(:,{'facility_type','energy_star_rating','year_built','State_Factor'});
 lastCol=string(lastCol{:,1})+"_"+string(lastCol{:,2})+"_"+string(lastCol{:,3})+"_"+string(lastCol{:,4});
 lastCol=array2table(lastCol,'VariableNames',{'mix_features'});
 data=[data lastCol];
 data = movevars(data, 'site_eui', 'After', 'mix_features');
-%Entrenamos el modelo
+%eliminamos algo de data
+data=rmmissing(data, 'DataVariables', 'energy_star_rating');
+data=rmmissing(data, 'DataVariables', 'year_built');
+%O "promediamos la data faltante"
+data.energy_star_rating = fillmissing(data.energy_star_rating, 'pchip');
+data.year_built = fillmissing(data.year_built, 'makima');
+%elimamos un cierto porcentaje
+percentToDelete=10;
+testIdx = 1:100/percentToDelete:height(data);
+data(testIdx, : ) = [];
 clc
 fprintf("Espera a que se abra la aplicación, puede demorar segundos\n")
 writetable(data,'wids.csv');
-%%
+%% Entrenamos
 clc
 regressionLearner
 %%
 clear
-load ('dataTrained_5th.mat')
+load ('dataTrained_7th.mat')
 %Cargamos la data a entrenar
 testData=readtable("test.csv");
-%Eliminamos algunas columnas
-testData= removevars(testData, {'direction_max_wind_speed','direction_peak_wind_speed','max_wind_speed','days_with_fog'});
-%Movemos la columna id
-testData = movevars(testData, 'id', 'Before', 'Year_Factor');
+testData=testData(:,{'facility_type','energy_star_rating','year_built','floor_area','State_Factor'});
+%Agregamos la nueva columna, mezcla de palabras
+lastCol=testData(:,{'facility_type','energy_star_rating','year_built','State_Factor'});
+lastCol=string(lastCol{:,1})+"_"+string(lastCol{:,2})+"_"+string(lastCol{:,3})+"_"+string(lastCol{:,4});
+lastCol=array2table(lastCol,'VariableNames',{'mix_features'});
+testData=[testData lastCol];
+
 predictedData=trainedModel.predictFcn(testData);
 tempMatrix=readmatrix("sample_solution.csv");
 tempMatrix(:,2)=predictedData;%favoreció multiplicar el 1.017
