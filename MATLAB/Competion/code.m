@@ -6,7 +6,7 @@ summary(readtable("train.csv"))
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Solo nos quedamos con las columnas que deseamos
 data=readtable("train.csv");
-data=data(:,{'facility_type','energy_star_rating','year_built','floor_area','State_Factor','site_eui'});
+data=data(:,{'facility_type','energy_star_rating','year_built','january_avg_temp','heating_degree_days','State_Factor','site_eui'});
 %Agregamos la nueva columna, mezcla de palabras
 lastCol=data(:,{'facility_type','energy_star_rating','year_built','State_Factor'});
 lastCol=string(lastCol{:,1})+"_"+string(lastCol{:,2})+"_"+string(lastCol{:,3})+"_"+string(lastCol{:,4});
@@ -22,7 +22,7 @@ data.year_built = fillmissing(data.year_built, 'makima');
 %elimamos un cierto porcentaje
 percentToDelete=10;
 testIdx = 1:100/percentToDelete:height(data);
-data(testIdx, : ) = [];
+%data(testIdx, : ) = [];
 clc
 fprintf("Espera a que se abra la aplicación, puede demorar segundos\n")
 writetable(data,'wids.csv');
